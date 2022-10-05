@@ -1,16 +1,14 @@
-### Hi there 👋
+- 🌈 Introducing Jen DeGrazia
+- ♀️ she / her
+- 🎨 I’m interested in art, design, writing, and learning new things
+- :octocat: I’m currently learning the fundamentals of front-end web, app, and software development & UX/UI design 
+- 🔍 I’m exploring interesting repo's to enhance my developer knowledge and coding skills
+- 👁️‍🗨️ Twitter: [@degrazia_jen](https://twitter.com/degrazia_jen) Reddit: [u/jenitaljenocide](https://www.reddit.com/user/jenitaljenocide/) LinkedIn: [Jen DeGrazia](https://www.linkedin.com/in/jendegrazia)
 
-<!--
-**jenonymous-dev/jenonymous-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I look forward to spending time here, and learning from the best. Thanks for taking the time to ReadMe ❇️
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+jenonymous-dev/jenonymous-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
