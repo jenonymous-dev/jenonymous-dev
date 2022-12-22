@@ -1,6 +1,6 @@
 - 🌈 Introducing Jen DeGrazia
 - ♀️ she / her
-- 🎨 njoys art, design, writing, and learning new things
+- 🎨 Enjoys art, design, writing, and learning new things
 - :octocat: I’m currently learning the fundamentals of front-end web, app, and software development 
 - 🔍 Exploring interesting repo's to enhance my developer knowledge and coding skills
 - 👁️‍🗨️ Twitter: [@jenonymousss](https://twitter.com/jenonymousss) Reddit: [u/jenitaljenocide](https://www.reddit.com/user/jenitaljenocide/) LinkedIn: [Jen DeGrazia](https://www.linkedin.com/in/jendegrazia)
