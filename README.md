@@ -1,11 +1,11 @@
 - 🌈 Introducing Jen DeGrazia
 - ♀️ she / her
-- 🎨 I’m interested in art, design, writing, and learning new things
-- :octocat: I’m currently learning the fundamentals of front-end web, app, and software development & UX/UI design 
-- 🔍 I’m exploring interesting repo's to enhance my developer knowledge and coding skills
-- 👁️‍🗨️ Twitter: [@degrazia_jen](https://twitter.com/degrazia_jen) Reddit: [u/jenitaljenocide](https://www.reddit.com/user/jenitaljenocide/) LinkedIn: [Jen DeGrazia](https://www.linkedin.com/in/jendegrazia)
+- 🎨 njoys art, design, writing, and learning new things
+- :octocat: I’m currently learning the fundamentals of front-end web, app, and software development 
+- 🔍 Exploring interesting repo's to enhance my developer knowledge and coding skills
+- 👁️‍🗨️ Twitter: [@jenonymousss](https://twitter.com/jenonymousss) Reddit: [u/jenitaljenocide](https://www.reddit.com/user/jenitaljenocide/) LinkedIn: [Jen DeGrazia](https://www.linkedin.com/in/jendegrazia)
 
-I look forward to spending time here, and learning from the best. Thanks for taking the time to ReadMe ❇️
+Looking forward to exploring GitHub. ❇️
 
 
 <!---
