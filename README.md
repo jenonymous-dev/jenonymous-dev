@@ -1,12 +1,12 @@
 - 🌈 Jen DeGrazia
 - ♀️ she / her
-- 🎨 Enjoys art, design, writing, and learning new things. 
-- 🐉 Kali linux enthusiast.
+- 🎨 Enjoys art, design, writing, learning, and "geeking out"
+- 🐉 Linux enthusiast.
 - :octocat: Currently studying the fundamentals of front-end web and software development 
-- 🔍 Exploring repos to enhance my dev knowledge and skills
+- 🔍 Exploring enhances knowledge and inspires creativity.
 - 👁️‍🗨️ Twitter: [@jenonymousss](https://twitter.com/jenonymousss) Reddit: [u/jenitaljenocide](https://www.reddit.com/user/jenitaljenocide/) LinkedIn: [Jen DeGrazia](https://www.linkedin.com/in/jendegrazia)
 
-Looking forward to exploring GitHub. ❇️
+Hello, GitHub. ❇️
 
 
 <!---
