@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Taste the Rainbow - Homepage</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <meta name="description" content="" />
+        <link rel="icon" href="favicon.png" />
+        <meta name="theme-color" content="#ff007f" />
+    </head>
+    <body>
+        <header>
+            <h1>Taste the Rainbow</h1>
+            <h3>A colorful collection of recipes.</h3>
+            <nav class="nav" id="nav">
+                <a href="#home">Logo</a>
+                <a href="#menu-item-1">Menu Item 1</a>
+                <a href="#menu-item-2">Menu Item 2</a>
+                <a href="#menu-item-3">Menu Item 3</a>
+                <a
+                    href="javascript:void(0);"
+                    id="menu-toggle"
+                    onclick="togglemenu()"
+                >
+                    <div class="menu-toggle__bar1"></div>
+                    <div class="menu-toggle__bar2"></div>
+                    <div class="menu-toggle__bar3"></div>
+                </a>
+            </nav>
+        </header>
+        <div>
+            <h1>Taste the Rainbow</h1>
+            <p>
+                Welcome to Taste the Rainbow, the premier recipe site for all
+                your vibrant and colourful culinary needs! Here you will find a
+                selection of recipes to cook up a rainbow-themed feast.
+            </p>
+        </div>
+        <div>
+            <h2>What is the Rainbow?</h2>
+            <p>
+                The rainbow is a beautiful natural phenomenon consisting of
+                seven distinct colours - red, orange, yellow, green, blue,
+                indigo and violet - arranged in a colourful arc. Each colour has
+                its own unique flavour and texture.
+            </p>
+        </div>
+        <div>
+            <h2>Explore the Recipes</h2>
+            <p>
+                Ready to explore the rainbow of flavours? Click
+                <a href="recipes.html">right here</a> to check out our recipe
+                pot o' gold!
+            </p>
+        </div>
+        <img src="https://picsum.photos/200" alt="placeholder photo" />
+        <section>
+            <main>
+                <section>Section 1</section>
+        <div>
+            <p>
+                Duis ea exercitation tempor eiusmod minim enim est incididunt
+                deserunt voluptate in magna id in est aute dolor cillum ut
+                cillum dolore aliquip dolore ullamco qui aliquas non Lorem id
+                reprehenderit Excepteur anim irure Excepteur officia id aute
+                cupidatat elits aute mollit culpa sit eu quis sunt in ipsum
+                tempor eu aliquas dolor Lorem do magna amets.
+            </p>
+        </div>
+                <section>Section 2</section>
+        <div>
+            <p>
+                Duis ea exercitation tempor eiusmod minim enim est incididunt
+                deserunt voluptate in magna id in est aute dolor cillum ut
+                cillum dolore aliquip dolore ullamco qui aliquas non Lorem id
+                reprehenderit Excepteur anim irure Excepteur officia id aute
+                cupidatat elits aute mollit culpa sit eu quis sunt in ipsum
+                tempor eu aliquas dolor Lorem do magna amets.
+            </p>
+        </div>
+                <section>Section 3</section>
+        <div>
+            <p>
+                Duis ea exercitation tempor eiusmod minim enim est incididunt
+                deserunt voluptate in magna id in est aute dolor cillum ut
+                cillum dolore aliquip dolore ullamco qui aliquas non Lorem id
+                reprehenderit Excepteur anim irure Excepteur officia id aute
+                cupidatat elits aute mollit culpa sit eu quis sunt in ipsum
+                tempor eu aliquas dolor Lorem do magna amets.
+            </p>
+        </div>
+            </main>
+        </section>
+        <footer>
+            <small>
+                ©
+                <script>
+                    document.write(new Date().getFullYear());
+                </script>
+                degrazia. All Rights Reserved.</small
+            >
+        </footer>
+        <script>
+            function togglemenu() {
+                var x = document.getElementById("nav");
+                if (x.className === "nav") {
+                    x.className += " nav--open";
+                } else {
+                    x.className = "nav";
+                }
+                var element = document.getElementById("menu-toggle");
+                element.classList.toggle("menu-toggle--open");
+            }
+        </script>
+    </body>
+</html>
