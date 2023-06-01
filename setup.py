@@ -1,11 +1,3 @@
----
-created: 2023-03-25T14:37:50-07:00
-modified: 2023-06-01T03:13:30-04:00
----
-
-# setup.py
-
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 # Note: To use the 'upload' functionality of this file, you must:
