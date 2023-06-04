@@ -114,13 +114,18 @@ Setting up libedit (20221030-3.1-0) ...
 Setting up openssh-sftp-server (9.3p1-2) ...
 Setting up ldns (1.8.3-2) ...
 Setting up termux-auth (1.4-2) ...
-Setting up openssh (9.3p1-2) ...
+
+Setting up **openssh** (9.3p1-2) ...
+
+
+
 Generating public/private rsa key pair.
-Your identification has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_rsa_key
-Your public key has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_rsa_key.pub
+Your identification has been saved in **/data/data/com.termux/files/usr/etc/ssh/ssh_host_rsa_key**
+Your public key has been saved in **/data/data/com.termux/files/usr/etc/ssh/ssh_host_rsa_key.pub**
 The key fingerprint is:
-SHA256:RkebJDsq+rmLehdP97Hr4uO/8HM0ivbXnUiKuSpW7HU u0_a1057@localhost
+**SHA256:RkebJDsq+rmLehdP97Hr4uO/8HM0ivbXnUiKuSpW7HU u0_a1057@localhost**
 The key's randomart image is:
+
 +---[RSA 3072]----+
 |        . o      |
 |         = o     |
@@ -132,12 +137,14 @@ The key's randomart image is:
 |  .o.+..===.o....|
 |.o..*o.=+BO*     |
 +----[SHA256]-----+
+
 Generating public/private dsa key pair.
-Your identification has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_dsa_key
-Your public key has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_dsa_key.pub
+Your identification has been saved in **/data/data/com.termux/files/usr/etc/ssh/ssh_host_dsa_key**
+Your public key has been saved in **/data/data/com.termux/files/usr/etc/ssh/ssh_host_dsa_key.pub**
 The key fingerprint is:
-SHA256:VzXRemS8i1pP+e9PPrNpgYY9TZAZvCgRi57/zmq26GY u0_a1057@localhost
+**SHA256:VzXRemS8i1pP+e9PPrNpgYY9TZAZvCgRi57/zmq26GY u0_a1057@localhost**
 The key's randomart image is:
+
 +---[DSA 1024]----+
 |         .. ..B+ |
 |        ...  * .=|
@@ -149,12 +156,14 @@ The key's randomart image is:
 |       E.oo.   Bo|
 |      +ooo++  .+@|
 +----[SHA256]-----+
+
 Generating public/private ecdsa key pair.
-Your identification has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_ecdsa_key
-Your public key has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_ecdsa_key.pub
+Your identification has been saved in **/data/data/com.termux/files/usr/etc/ssh/ssh_host_ecdsa_key**
+Your public key has been saved in **/data/data/com.termux/files/usr/etc/ssh/ssh_host_ecdsa_key.pub**
 The key fingerprint is:
-SHA256:Qxf/HxRTliyZPDy2GFA4TOLFpmkoiwiK33K/2zKpcZw u0_a1057@localhost
+**SHA256:Qxf/HxRTliyZPDy2GFA4TOLFpmkoiwiK33K/2zKpcZw u0_a1057@localhost**
 The key's randomart image is:
+
 +---[ECDSA 256]---+
 |       .++=.o +o=|
 |      . o* + X +o|
@@ -166,12 +175,14 @@ The key's randomart image is:
 |  o oo+.         |
 |   o.o+=.        |
 +----[SHA256]-----+
+
 Generating public/private ed25519 key pair.
-Your identification has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_ed25519_key
-Your public key has been saved in /data/data/com.termux/files/usr/etc/ssh/ssh_host_ed25519_key.pub
+Your identification has been saved in **/data/data/com.termux/files/usr/etc/ssh/ssh_host_ed25519_key**
+Your public key has been saved in **/data/data/com.termux/files/usr/etc/ssh/ssh_host_ed25519_key.pub**
 The key fingerprint is:
-SHA256:D+MN3aUVlm3ydWLQAKJGJd4pdibscNEMvK8uqCYbAKo u0_a1057@localhost
+**SHA256:D+MN3aUVlm3ydWLQAKJGJd4pdibscNEMvK8uqCYbAKo u0_a1057@localhost**
 The key's randomart image is:
+
 +--[ED25519 256]--+
 |     .==o ..o+oo |
 |     +.=oo   .*.=|
@@ -183,5 +194,6 @@ The key's randomart image is:
 |.o. . .          |
 |=o   o.          |
 +----[SHA256]-----+
+
 Setting up mosh (1.4.0-4) ...
 ~ $
