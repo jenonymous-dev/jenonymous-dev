@@ -1,3 +1,9 @@
+---
+layout: default
+comments: true
+# other options
+---
+
 - 🌈 Jen DeGrazia
 - ♀️ she / her
 - 🎨 Enjoys art, design, writing, learning, and "geeking out"
@@ -5,8 +11,7 @@
 - :octocat: Currently studying the fundamentals of front-end web and software development 
 - 🔍 Exploring enhances knowledge and inspires creativity.
 - 👁️‍🗨️ Twitter: [@jenonymousss](https://twitter.com/jenonymousss) Reddit: [u/jenitaljenocide](https://www.reddit.com/user/jenitaljenocide/) LinkedIn: [Jen DeGrazia](https://www.linkedin.com/in/jendegrazia)
-
-Hello, GitHub. ❇️
+❇️
 
 
 <!---
