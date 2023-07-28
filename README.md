@@ -1,9 +1,3 @@
----
-layout: default
-comments: true
-# other options
----
-
 - 🌈 Jen DeGrazia
 - ♀️ she / her
 - 🎨 Enjoys art, design, writing, learning, and "geeking out"
